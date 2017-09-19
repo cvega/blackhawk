@@ -2,7 +2,7 @@
 example for parameterized pipeline and deploying
 
 structure:
-
+```
 ├── LICENSE
 ├── README.md
 └── q2_acq_zml
@@ -21,3 +21,4 @@ structure:
     ├── jpos-1.6.jar
     ├── lib
     └── nohup.out
+```
